@@ -1,0 +1,9 @@
+package com.ronaldy.userdept.entities;
+
+public class user {
+	
+	private Long id;
+	private String name;
+	private String email;
+
+}

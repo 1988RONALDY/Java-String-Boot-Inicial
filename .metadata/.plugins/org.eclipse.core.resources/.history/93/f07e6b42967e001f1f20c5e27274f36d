@@ -1,0 +1,5 @@
+package com.ronaldy.userdept.repositories;
+
+public class UserRepository {
+
+}

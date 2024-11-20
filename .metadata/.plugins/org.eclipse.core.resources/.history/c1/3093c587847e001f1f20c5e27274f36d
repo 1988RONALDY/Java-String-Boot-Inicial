@@ -1,0 +1,11 @@
+package com.ronaldy.userdept.entities;
+
+public class departament {
+	
+	private Long id;
+	private String name;
+	
+	public departament() {  //construtor,  pode ser intanciada sem passar nenhum argumento
+	}
+
+}
